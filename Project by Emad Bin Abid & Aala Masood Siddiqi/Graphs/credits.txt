@@ -1,0 +1,6 @@
+Graph resources:
+  1. Tulip 5.0.0
+  2. Pajek 5.01
+
+Histogram resources:
+  1. https://www.meta-chart.com/histogram 

@@ -1,0 +1,138 @@
+*Vertices 68
+1 "Dubai"
+2 "Kuwait"
+3 "London"
+4 "Colombo"
+5 "Muscat"
+6 "Tokyo"
+7 "Peking"
+8 "Manila"
+9 "Kuala Lumpur"
+10 "Singapore"
+11 "Bangkok"
+12 "Tehran"
+13 "Damascus"
+14 "Cairo"
+15 "Istanbul"
+16 "Athens"
+17 "Tripoli"
+18 "Rome" 
+19 "Amsterdam"
+20 "Frankfurt" 
+21 "Paris"
+22 "Copenhagen"
+23 "New York"
+24 "Abu Dhabi"
+25 "Bahrain"
+26 "Doha"
+27 "Dhahran"
+28 "Jeddah"
+29 "Nairobi"
+30 "Dar-Es-Salam"
+31 "Kano"
+32 "Baghdad"
+33 "MumbaiBombay"
+34 "Delhi"
+35 "Dhaka"
+36 "Islamabad"
+37 "Lahore"
+38 "Paris"
+39 "Beijing"
+40 "Dammam"
+41 "Medina"
+42 "Riyadh"
+43 "Toronto"
+44 "Amman"
+45 "Hong Kong"
+46 "Jakarta"
+47 "Johannesburg"
+48 "Manchester"
+49 "Melbourne"
+50 "Moroni"
+51 "Zurich"
+52 "Ahmedabad"
+53 "Auckland"
+54 "Barcelona"
+55 "Basra"
+56 "Beirut"
+57 "Birmingham"
+58 "Brisbane"
+59 "Budapest"
+60 "Cape Town"
+61 "Dallas"
+62 "Hyderabad"
+63 "Los-Angeles"
+64 "Mashhad"
+65 "Abidjan"
+66 "Adelaide"
+67 "Sydney"
+68 "Karachi"
+*Arcs
+3	1	7
+25	68	0
+11	68	3
+40	68	2
+41	68	3
+24	68	3
+3	68	2
+39	68	2
+21	68	2
+27	68	0
+1	68	7
+29	68	0
+9	68	5
+2	68	5
+42	68	1
+5	68	3
+43	68	2
+6	68	3
+44	68	0
+68	1	7
+16	68	7
+16	1	4
+1	68	7
+53	1	10
+54	1	21
+26	1	5
+11	1	15
+55	1	7
+56	1	6
+40	1	8
+57	1	7
+58	1	11
+59	1	4
+60	1	4
+15	1	11
+61	1	12
+4	1	8
+62	1	5
+41	1	4
+35	1	8
+36	1	9
+63	1	17
+68	1	21
+2	1	6
+3	1	8
+64	1	17
+65	1	6
+42	1	10
+50	1	14
+13	1	8
+66	1	7
+67	1	7
+53	1	10
+27	68	0
+27	1	0
+22	1	12
+24	1	12
+44	1	12
+3	1	7
+21	1	30
+20	1	21
+16	1	24
+55	1	35
+52	1	19
+21	1	7
+5	1	7
+52	1	7
+*Edges

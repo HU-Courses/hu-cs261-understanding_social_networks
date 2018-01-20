@@ -1,0 +1,100 @@
+origin,destination,weight (no. of flights per week),airline
+1,68,2,British Airways
+2,68,2,British Airways
+3,68,2,British Airways
+4,1,2,British Airways
+5,1,7,British Airways
+3,1,9,British Airways
+6,68,4,P.I.A.
+7,68,5,P.I.A.
+8,68,7,P.I.A.
+9,68,7,P.I.A.
+10,68,9,P.I.A.
+11,68,20,P.I.A.
+12,68,15,P.I.A.
+13,68,19,P.I.A.
+14,68,15,P.I.A.
+15,68,19,P.I.A.
+16,68,19,P.I.A.
+17,68,15,P.I.A.
+18,68,13,P.I.A.
+19,68,15,P.I.A.
+20,68,15,P.I.A.
+21,68,14,P.I.A.
+22,68,12,P.I.A.
+3,68,10,P.I.A.
+23,68,4,P.I.A.
+24,68,21,P.I.A.
+5,68,12,P.I.A.
+25,68,7,P.I.A.
+26,68,4,P.I.A.
+27,68,20,P.I.A.
+28,68,11,P.I.A.
+29,68,4,P.I.A.
+30,68,2,P.I.A.
+31,68,1,P.I.A.
+32,68,5,P.I.A.
+2,68,3,P.I.A.
+33,68,6,P.I.A.
+34,68,2,P.I.A.
+4,68,3,P.I.A.
+36,68,2,P.I.A.
+19,1,1,P.I.A.
+14,1,1,P.I.A.
+20,1,2,P.I.A.
+36,1,5,P.I.A.
+68,1,12,P.I.A.
+37,1,2,P.I.A.
+3,1,2,P.I.A.
+23,1,2,P.I.A.
+21,1,2,P.I.A.
+15,68,1,Turkish Airlines
+24,68,1,Turkish Airlines
+35,68,1,Emirates
+1,68,8,Emirates
+3,68,7,Emirates
+24,1,8,Emirates
+44,1,3,Emirates
+16,1,2,Emirates
+11,1,4,Emirates
+14,1,3,Emirates
+4,1,7,Emirates
+13,1,3,Emirates
+34,1,7,Emirates
+27,1,2,Emirates
+35,1,5,Emirates
+26,1,9,Emirates
+20,1,6,Emirates
+45,1,2,Emirates
+15,1,7,Emirates
+46,1,3,Emirates
+28,1,3,Emirates
+47,1,4,Emirates
+68,1,3,Emirates
+2,1,14,Emirates
+3,1,9,Emirates
+48,1,3,Emirates
+8,1,7,Emirates
+49,1,14,Emirates
+33,1,5,Emirates
+5,1,5,Emirates
+29,1,6,Emirates
+21,1,3,Emirates
+42,1,2,Emirates
+18,1,9,Emirates
+10,1,13,Emirates
+12,1,4,Emirates
+51,1,4,Emirates
+8,68,1,Air France
+21,68,3,Air France
+11,68,2,Air France
+39,68,1,Air France
+21,1,2,Air France
+11,68,2,Lufthansa
+20,68,5,Lufthansa
+45,68,5,Lufthansa
+6,68,2,Lufthansa
+67,1,2,Lufthansa
+9,1,2,Lufthansa
+49,1,2,Lufthansa
+20,1,5,Lufthansa
